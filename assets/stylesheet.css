@@ -1,0 +1,61 @@
+.submit-val{
+    color: aqua;
+    background-color: aquamarine;
+}
+body {
+    font-family: sans-serif;
+    background-color:#191A19;
+}
+#dropdown{
+    
+    color: black;
+    font-size: 20px;
+    width:200px
+
+}
+h2{
+    color: #4E9F3D;
+}
+#radioitems-input{
+    color: #D8E9A8;
+    font-size: 20px;
+    
+}
+#header{
+    color: #4E9F3D;
+    text-align: center;
+    border-style: solid;
+    border-color: #D8E9A8;
+    padding: 12px;
+}
+#input-on-submit2{
+    width: 200px;
+    height: 25px;
+    color: black;
+    font-size: 20px;
+}
+#input-on-submit3{
+    width: 200px;
+    height: 25px;
+    color: black;
+    font-size: 20px;
+}
+#container-button-basic{
+    border-style: solid;
+    border-color: #D8E9A8;
+    font-size:  64px;
+    margin-left: 1200px;
+    height: 350px;
+    color: #4E9F3D;
+    text-align: center;
+    
+   
+}
+#submit-val{
+    font-size: 20px;
+    width: 200px;
+    height: 40px;
+    
+    
+}
+
